@@ -1,0 +1,15 @@
+{
+    "name": "codespace/projeto_carrinho_compras_curso_full-stack",
+    "autoload": {
+        "psr-4": {
+            "Codespace\\ProjetoCarrinhoComprasCursoFullStack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Tomaz",
+            "email": "matheusdeveloperr@gmail.com"
+        }
+    ],
+    "require": {}
+}
